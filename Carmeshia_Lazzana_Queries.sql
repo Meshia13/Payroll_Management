@@ -171,3 +171,4 @@ DELIMITER ;
 
 CALL get_salary();
 
+SELECT * from state;
